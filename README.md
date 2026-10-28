@@ -5,7 +5,7 @@
 📍 Bangalore, India  
 📧 abhijithashokan193@gmail.com  
 💼 LinkedIn: www.linkedin.com/in/abhjith-ashokan-10a736184  
-🔗 GitHub: https://github.com/yourusername
+🔗 GitHub: https://github.com/abhijithashokan
 
 ---
 
@@ -167,7 +167,7 @@ Working on enterprise-scale identity verification systems involving:
 
 - LinkedIn: www.linkedin.com/in/abhjith-ashokan-10a736184
 - Email: abhijithashokan193@gmail.com
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/abhijithashokan
 
 ---
 
